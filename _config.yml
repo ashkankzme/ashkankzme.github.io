@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashkan (Ash) Kazemi"
+title                    : "Ashkan Kazemi"
 title_separator          : "-"
-name                     : &name "Ashkan (Ash) Kazemi"
+name                     : &name "Ashkan Kazemi"
 description              : &description "PhD Student at University of Michigan"
 url                      : https://ashkankzme.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashkan Kazemi"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "I'm a PhD student in the department of Computer Science & Engineering at University of Michigan. I'm part of the LIT Lab where I work on Natural Language Processing problems with Rada Mihalcea. I'm interested in the applications of NLP in news and journalism, as well as broader computational social science applications."
   location         : "Ann Arbor, MI, USA"
   employer         :
@@ -95,18 +95,18 @@ author:
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       : "https://foursquare.com/user/141443870"
+  foursquare       : "user/141443870"
   github           : "ashkankzme"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ashkankazemi/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "ashkankazemi"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/2618563/ashkan-kazemi"
   steam            :
   tumblr           :
   twitter          : "ashkankazemi"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
