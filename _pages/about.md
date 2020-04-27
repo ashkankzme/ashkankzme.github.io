@@ -16,4 +16,6 @@ I started my PhD in the Fall of 2018. Before that, I was a Technical Team Leader
 
 Before working at TAPSI, I used to work part-time as a software engineer at the Institute for Applied Intelligent Systems at University of Tehran, where I wrote a lot of back-end Java code. I graduated with a Bachelor's degree in Software Engineering from University of Tehran.
 
-I have watched many films and am known for my film recommendations. Lately I ran out of films and started watching documentaries. In my free time, I travel to new places to meet new people and try new foods. One of my PhD goals is to eat at every restaurant in Ann Arbor before I graduate and so far I've covered more than half. Feel free to reach out if you have any questions for me or if I can be of any help.
+I have watched many films and am known for my film recommendations. Lately I ran out of films and started watching documentaries. In my free time, I travel to new places to meet new people and try new foods. One of my PhD goals is to eat at every restaurant in Ann Arbor before I graduate and so far I've covered more than half. 
+
+Drop me an email with any questions or requests that I can help with (about grad school applications, research questions or really anything else). 
