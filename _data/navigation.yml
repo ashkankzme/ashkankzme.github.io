@@ -6,14 +6,14 @@ main:
 #   - title: "Education"
 #     url: /talks/    
 
-  - title: "Experiences"
-    url: /teaching/    
+#   - title: "Experiences"
+#     url: /teaching/    
     
-  - title: "Education"
-    url: /portfolio/
+#   - title: "Education"
+#     url: /portfolio/
         
-  - title: "Blog"
-    url: /year-archive/
+#   - title: "Blog"
+#     url: /year-archive/
     
 #   - title: "CV"
 #     url: /cv/
