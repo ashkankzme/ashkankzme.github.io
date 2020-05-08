@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ashkan (sometimes Ash) Kazemi, a PhD student at University of Michigan, Ann Arbor. My adviser is [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and I'm part of the [LIT lab](https://lit.eecs.umich.edu/) in the department of Computer Science and Engineering. 
+I'm Ashkan (sometimes Ash) Kazemi, a PhD student at University of Michigan, Ann Arbor. My advisor is [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and I'm part of the [LIT lab](https://lit.eecs.umich.edu/) in the department of Computer Science and Engineering. 
 
 I want to study the different ways we can use AI and natural language processing to improve news and journalism. So far in my PhD I've studied methods to automatically detect misinformation in news and social media. I'm also broadly interested in social computing and applications of NLP in computational social science.
 
