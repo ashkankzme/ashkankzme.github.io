@@ -95,7 +95,7 @@ author:
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       : "user/141443870"
+  foursquare       : # "user/141443870"
   github           : "ashkankzme"
   google_plus      :
   keybase          :
@@ -106,7 +106,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/2618563/ashkan-kazemi"
+  stackoverflow    : # "https://stackoverflow.com/users/2618563/ashkan-kazemi"
   steam            :
   tumblr           :
   twitter          : "ashkankazemi"
