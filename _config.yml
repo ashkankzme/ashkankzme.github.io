@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashkan Kazemi"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ashkan Kazemi"
 description              : &description "PhD Candidate at University of Michigan"
