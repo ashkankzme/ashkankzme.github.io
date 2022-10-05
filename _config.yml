@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Ashkan Kazemi"
+name                     : &name "Ashkan Kazemi (he/him) 🇮🇷🇺🇦🏳️‍🌈"
 description              : &description "PhD Candidate at University of Michigan"
 url                      : https://ashkankzme.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
