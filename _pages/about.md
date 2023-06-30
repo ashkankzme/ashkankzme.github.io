@@ -14,4 +14,4 @@ My research interests are in **natural language processing**, **computational so
 
 Prior to grad school, I was a Technical Team Leader (among other technical roles) at [TAPSI](https://tapsi.ir/), a ride-sharing company in Iran. I worked in multiple data-driven product teams, most importantly in pricing, dispatch and data infrastructure. At TAPSI I worked on a broad range of applied research questions in computational economics, namely supply/demand prediction, surge pricing, taxi dispatch algorithms and time-series analysis. I graduated with a Bachelor's degree in Computer/Software Engineering from University of Tehran.
 
-_I'm happy to chat about research (both my own papers and broader research in natural language processing, computational social, and misinformation.) and graduate school, as well as other topics you think I can help with. Feel free to drop me an email._
+_I'm happy to chat about research (both my own papers and broader research in natural language processing, computational social, and misinformation), and graduate school, as well as other topics you think I can help with. Feel free to drop me an email._
