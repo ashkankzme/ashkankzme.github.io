@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-** I am on the job market ([CV](https://drive.google.com/file/d/12cetaT1LAuHJnUbgijq0tyXJdlcAjTwd/view?usp=sharing), [research statement](https://drive.google.com/file/d/1CMT5F7sDMUasx8WR86A7VdAZ-cf7Qx2g/view?usp=sharing))**
+** I am on the job market for academic and industry research roles in _natural language processing_, _machine learning_, and _artificial intelligence_ ([CV](https://drive.google.com/file/d/12cetaT1LAuHJnUbgijq0tyXJdlcAjTwd/view?usp=sharing), [research statement](https://drive.google.com/file/d/1CMT5F7sDMUasx8WR86A7VdAZ-cf7Qx2g/view?usp=sharing))**
 
 I'm Ashkan Kazemi, a final year PhD candidate at the **University of Michigan**, Ann Arbor. My advisors are [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Verónica Pérez-Rosas](https://vrncapr.engin.umich.edu/) and I am member of the [Language and Information Technologies (LIT)](https://lit.eecs.umich.edu/) and [Michigan Artificial Intelligence](https://ai.engin.umich.edu/) labs in the department of [Computer Science and Engineering](https://cse.engin.umich.edu/).
 
