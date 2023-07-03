@@ -15,8 +15,8 @@ main:
   - title: "Blog"
     url: /blog/
     
-#   - title: "CV"
-#     url: /cv/
+  - title: "Volunteering and Community Service"
+    url: /volunteering/
     
 #   - title: "Guide"
 #     url: /markdown/
