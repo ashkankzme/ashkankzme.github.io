@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ashkan Kazemi"
-description              : &description "Research Scientist at Meedan"
+description              : &description "AI Researcher at Cisco"
 url                      : https://ashkankzme.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashkankzme.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "    Ashkan Kazemi اشکان کاظمی"
-  avatar           : "profile.jpg"
-  bio              : "Ashkan Kazemi, Research Scientist, PhD"
-  location         : "San Francisco, CA, USA"
+  avatar           : "profile2.jpg"
+  bio              : "Ashkan Kazemi, PhD"
+  location         : "San Francisco"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Vq4f4C8AAAAJ&hl=en"
-  email            : "ashkank at umich dot edu"
+  email            : "flour-nails.4e at icloud dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
